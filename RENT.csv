@@ -1,0 +1,871 @@
+,Location,City,Property Type,Property(BHK),Rent,Availabilities,Tenant Preferreds,Carpet Areas(sqft),Bathrooms,Floors
+0,"Kokapet, Outer Ring",Road,Villa,4,650000,Immediately,Bachelors/Family,9700,4,4
+1,Nalagandla,,Flat,4,250000,Immediately,Bachelors/Family,2809,4,4
+2,Nalagandla,,Flat,3,130000,Immediately,Family,4030,5,20
+3,Kondapur,,Flat,2,130000,Immediately,Bachelors,1600,5,5
+4,"Kollur, Outer Ring",Road,Villa,5,140000,Immediately,Bachelors/Family,7000,7,4
+5,Masjid,"Banda,",Flat,3,490000,Immediately,Bachelors/Family,700,7,2
+6,Shaikpet,,Flat,3,12000,Immediately,Bachelors/Family,6000,3,1
+7,Pragathi Nagar,"Kukatpally,",Flat,3,130000,Immediately,Bachelors/Family,1800,3,1
+8,Tirumalagiri,,Villa,2,36000,Immediately,Bachelors/Family,2400,2,3
+9,Hitech,"City,",Flat,3,110000,Immediately,Bachelors/Family,450,2,2
+10,Kondapur,,Flat,3,5500,Immediately,Bachelors/Family,1200,2,1
+11,"Kokapet, Outer Ring","Road,",Flat,3,40000,Immediately,Bachelors/Family,1500,2,2
+12,Khajaguda,,Villa,4,82500,Immediately,Bachelors/Family,1600,2,2
+13,Defence Colony,Sainikpuri,Flat,3,160000,Immediately,Bachelors/Family,2200,2,1
+14,Pragathi,"Enclave,",Flat,3,130000,Immediately,Bachelors/Family,1450,> 10,1
+15,"Financial District, Nanakram","Guda,",Flat,3,120000,Immediately,Bachelors/Family,1700,> 10,3
+16,Izzathnagar,,Flat,4,320000,Immediately,Bachelors/Family,8000,3,3
+17,"Basheer Bagh, NH","7,",Flat,2,520000,Immediately,Bachelors/Family,444,3,4
+18,Chanda,Nagar,Villa,3,95000,Immediately,Bachelors/Family,550,2,1
+19,"Narsingi, Outer Ring","Road,",Flat,3,15000,Immediately,Bachelors/Family,1400,2,4
+20,Narayanguda,,Flat,3,20000,Immediately,Bachelors/Family,8235,1,2
+21,Gachibowli,,Flat,4,120000,Immediately,Bachelors/Family,2000,1,2
+22,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,120000,From Aug '24,Bachelors/Family,1100,2,2
+23,Dandamudi Enclave,"Jeedimetla,",Flat,4,40000,Immediately,Bachelors/Family,2400,2,5
+24,Hastinapuram,,Flat,2,50000,Immediately,Bachelors/Family,2400,1,2
+25,Alwal,,Flat,2,30000,Immediately,Bachelors/Family,4900,1,2
+26,Puppalguda,,Flat,3,30000,Immediately,Bachelors/Family,3459,1,1
+27,Gachibowli,,Flat,3,30000,Immediately,Bachelors/Family,1356,1,1
+28,"Kokapet, Outer Ring","Road,",Flat,2,27000,Immediately,Bachelors,1296,2,1
+29,leke villa,Gandipet,Villa,5,28000,Immediately,Bachelors/Family,750,2,5
+30,"Kokapet, Outer Ring",Road,Villa,4,11000,Immediately,Bachelors,1775,4,6
+31,Nalagandla,,Flat,4,160000,Immediately,Bachelors/Family,3400,4,2
+32,Nalagandla,,Flat,3,75000,Immediately,Bachelors/Family,1600,4,3
+33,Kondapur,,Flat,2,47000,Immediately,Bachelors/Family,2000,4,1
+34,"Kollur, Outer Ring",Road,Villa,5,80000,Immediately,Bachelors/Family,1800,1,1
+35,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,2600,1,4
+36,Shaikpet,,Flat,3,40000,Immediately,Bachelors/Family,1600,3,5
+37,Pragathi Nagar,"Kukatpally,",Flat,3,140000,Immediately,Bachelors/Family,3900,3,5
+38,Tirumalagiri,,Villa,2,30000,Immediately,Bachelors/Family,2000,3,3
+39,Hitech,"City,",Flat,3,10000,Immediately,Bachelors/Family,18000,3,3
+40,Kondapur,,Flat,3,110000,Immediately,Bachelors/Family,2800,2,3
+41,"Kokapet, Outer Ring","Road,",Flat,3,150000,Immediately,Bachelors/Family,3500,2,3
+42,Khajaguda,,Villa,4,58000,Immediately,Bachelors/Family,700,1,2
+43,Defence Colony,Sainikpuri,Flat,3,15000,Immediately,Bachelors/Family,1250,1,1
+44,Pragathi,"Enclave,",Flat,3,72000,Immediately,Bachelors/Family,7800,2,1
+45,"Financial District, Nanakram","Guda,",Flat,3,250000,Immediately,Bachelors/Family,1272,2,4
+46,Izzathnagar,,Flat,4,35000,Immediately,Family,1800,3,4
+47,"Basheer Bagh, NH","7,",Flat,2,65000,Immediately,Bachelors,7000,3,29
+48,Chanda,Nagar,Villa,3,250000,Immediately,Bachelors/Family,27000,3,1
+49,"Narsingi, Outer Ring","Road,",Flat,3,330000,Immediately,Bachelors/Family,7500,3,3
+50,Narayanguda,,Flat,3,320000,Immediately,Bachelors/Family,1200,3,1
+51,Gachibowli,,Flat,4,38000,Immediately,Family,8500,3,23
+52,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,660000,Immediately,Bachelors/Family,1800,2,2
+53,Dandamudi Enclave,"Jeedimetla,",Flat,4,130000,Immediately,Bachelors/Family,2500,2,4
+54,Hastinapuram,,Flat,2,75000,Immediately,Bachelors/Family,4590,3,3
+55,Alwal,,Flat,2,30000,Immediately,Bachelors/Family,3900,3,5
+56,Puppalguda,,Flat,3,150000,Immediately,Bachelors/Family,1500,1,2
+57,Gachibowli,,Flat,3,70000,Immediately,Bachelors/Family,8000,1,11
+58,"Kokapet, Outer Ring","Road,",Flat,2,350000,Immediately,Bachelors/Family,1000,2,5
+59,leke villa,Gandipet,Villa,5,70000,Immediately,Bachelors/Family,7900,2,1
+60,"Kokapet, Outer Ring",Road,Villa,4,1510000,Immediately,Bachelors/Family,1800,4,4
+61,Nalagandla,,Flat,4,60000,Immediately,Bachelors/Family,1945,4,4
+62,Nalagandla,,Flat,3,450000,Immediately,Bachelors/Family,1800,3,1
+63,Kondapur,,Flat,2,130000,Immediately,Bachelors/Family,2566,3,1
+64,"Kollur, Outer Ring",Road,Villa,5,250000,Immediately,Bachelors/Family,1500,1,1
+65,Masjid,"Banda,",Flat,3,180000,Immediately,Bachelors/Family,650,1,3
+66,Shaikpet,,Flat,3,88000,Immediately,Bachelors/Family,1700,2,3
+67,Pragathi Nagar,"Kukatpally,",Flat,3,35000,Immediately,Bachelors/Family,2500,2,8
+68,Tirumalagiri,,Villa,2,150000,Immediately,Bachelors/Family,3000,1,2
+69,Hitech,"City,",Flat,3,120000,Immediately,Bachelors/Family,6000,1,9
+70,Kondapur,,Flat,3,150000,Immediately,Bachelors/Family,1640,2,1
+71,"Kokapet, Outer Ring","Road,",Flat,3,110000,Immediately,Bachelors/Family,3600,2,4
+72,Khajaguda,,Villa,4,30000,Immediately,Bachelors/Family,900,3,1
+73,Defence Colony,Sainikpuri,Flat,3,32000,Immediately,Bachelors/Family,4309,3,17
+74,Pragathi,"Enclave,",Flat,3,280000,Immediately,Bachelors/Family,2500,5,3
+75,"Financial District, Nanakram","Guda,",Flat,3,85000,Immediately,Bachelors/Family,3300,5,2
+76,Izzathnagar,,Flat,4,230000,Immediately,Bachelors/Family,875,1,3
+77,"Basheer Bagh, NH","7,",Flat,2,50000,Immediately,Bachelors/Family,2049,1,2
+78,Chanda,Nagar,Villa,3,85000,Immediately,Bachelors,2911,4,1
+79,"Narsingi, Outer Ring","Road,",Flat,3,110000,Immediately,Bachelors/Family,2300,4,2
+80,Narayanguda,,Flat,3,35000,Immediately,Bachelors,5800,2,2
+81,Gachibowli,,Flat,4,20000,Immediately,Bachelors/Family,2800,2,1
+82,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,60000,Immediately,Bachelors/Family,2130,1,2
+83,Dandamudi Enclave,"Jeedimetla,",Flat,4,60000,From Aug '24,Bachelors,520,1,1
+84,Hastinapuram,,Flat,2,10000,Immediately,Bachelors/Family,1900,1,18
+85,Alwal,,Flat,2,52000,Immediately,Bachelors/Family,3900,1,1
+86,Puppalguda,,Flat,3,130000,Immediately,Bachelors,1200,2,15
+87,Gachibowli,,Flat,3,35000,Immediately,Bachelors/Family,1700,2,3
+88,"Kokapet, Outer Ring","Road,",Flat,2,50000,Immediately,Bachelors/Family,2000,8,4
+89,leke villa,Gandipet,Villa,5,20000,Immediately,Bachelors/Family,1500,8,1
+90,"Kokapet, Outer Ring",Road,Villa,4,45000,Immediately,Bachelors/Family,2400,9,3
+91,Nalagandla,,Flat,4,35000,Immediately,Bachelors/Family,6300,9,3
+92,Nalagandla,,Flat,3,210000,Immediately,Bachelors/Family,2400,6,5
+93,Kondapur,,Flat,2,75000,Immediately,Bachelors,350,6,1
+94,"Kollur, Outer Ring",Road,Villa,5,20000,Immediately,Bachelors/Family,2600,3,2
+95,Masjid,"Banda,",Flat,3,65000,Immediately,Bachelors/Family,800,3,19
+96,Shaikpet,,Flat,3,70000,Immediately,Bachelors/Family,1500,2,2
+97,Pragathi Nagar,"Kukatpally,",Flat,3,22000,Immediately,Bachelors/Family,1400,2,4
+98,Tirumalagiri,,Villa,2,120000,Immediately,Bachelors/Family,1600,2,2
+99,Hitech,"City,",Flat,3,170000,Immediately,Bachelors/Family,15000,2,10
+100,Kondapur,,Flat,3,650000,Immediately,Bachelors/Family,2780,1,1
+101,"Kokapet, Outer Ring","Road,",Flat,3,190000,Immediately,Bachelors/Family,11800,1,4
+102,Khajaguda,,Villa,4,650000,Immediately,Bachelors/Family,4300,5,15
+103,Defence Colony,Sainikpuri,Flat,3,60000,Immediately,Bachelors/Family,2400,5,1
+104,Pragathi,"Enclave,",Flat,3,250000,Immediately,Bachelors/Family,1000,3,4
+105,"Financial District, Nanakram","Guda,",Flat,3,68000,Immediately,Bachelors,2400,3,5
+106,Izzathnagar,,Flat,4,28000,Immediately,Bachelors/Family,3200,3,5
+107,"Basheer Bagh, NH","7,",Flat,2,10000,Immediately,Bachelors/Family,4400,3,3
+108,Chanda,Nagar,Villa,3,65000,Immediately,Bachelors,2700,3,2
+109,"Narsingi, Outer Ring","Road,",Flat,3,290000,Immediately,Bachelors/Family,2300,3,2
+110,Narayanguda,,Flat,3,150000,Immediately,Bachelors/Family,3700,2,2
+111,Gachibowli,,Flat,4,60000,Immediately,Bachelors/Family,3200,2,6
+112,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,66000,Immediately,Bachelors,1350,3,3
+113,Dandamudi Enclave,"Jeedimetla,",Flat,4,50000,Immediately,Bachelors/Family,19500,3,2
+114,Hastinapuram,,Flat,2,90000,Immediately,Family,1900,2,3
+115,Alwal,,Flat,2,120000,From Aug '24,Bachelors/Family,1170,2,1
+116,Puppalguda,,Flat,3,250000,Immediately,Bachelors/Family,1000,3,4
+117,Gachibowli,,Flat,3,330000,Immediately,Bachelors/Family,1200,3,16
+118,"Kokapet, Outer Ring","Road,",Flat,2,50000,Immediately,Bachelors/Family,2300,3,1
+119,leke villa,Gandipet,Villa,5,19000,Immediately,Bachelors/Family,1575,3,5
+120,"Kokapet, Outer Ring",Road,Villa,4,70000,Immediately,Bachelors/Family,880,1,1
+121,Nalagandla,,Flat,4,70000,Immediately,Bachelors/Family,800,1,3
+122,Nalagandla,,Flat,3,43000,Immediately,Family,3000,3,3
+123,Kondapur,,Flat,2,13900,Immediately,Bachelors,1750,3,3
+124,"Kollur, Outer Ring",Road,Villa,5,10000,Immediately,Bachelors,1700,1,1
+125,Masjid,"Banda,",Flat,3,70000,Immediately,Bachelors,1100,1,4
+126,Shaikpet,,Flat,3,45000,Immediately,Bachelors/Family,1600,2,11
+127,Pragathi Nagar,"Kukatpally,",Flat,3,110000,Immediately,Bachelors/Family,1250,2,21
+128,Tirumalagiri,,Villa,2,40000,Immediately,Bachelors,1200,4,2
+129,Hitech,"City,",Flat,3,45000,Immediately,Family,2500,4,8
+130,Kondapur,,Flat,3,35000,Immediately,Bachelors/Family,1400,3,3
+131,"Kokapet, Outer Ring","Road,",Flat,3,28000,Immediately,Bachelors/Family,1400,3,3
+132,Khajaguda,,Villa,4,120000,Immediately,Bachelors/Family,1800,1,6
+133,Defence Colony,Sainikpuri,Flat,3,68000,Immediately,Bachelors/Family,750,1,2
+134,Pragathi,"Enclave,",Flat,3,80000,Immediately,Bachelors/Family,1550,4,7
+135,"Financial District, Nanakram","Guda,",Flat,3,110000,Immediately,Bachelors/Family,1650,4,21
+136,Izzathnagar,,Flat,4,62720,Immediately,Bachelors/Family,15,2,2
+137,"Basheer Bagh, NH","7,",Flat,2,10000,Immediately,Bachelors/Family,320,2,2
+138,Chanda,Nagar,Villa,3,60000,Immediately,Bachelors,500,4,4
+139,"Narsingi, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,1410,4,16
+140,Narayanguda,,Flat,3,60000,Immediately,Bachelors,1557,3,15
+141,Gachibowli,,Flat,4,130000,Immediately,Bachelors,970,3,25
+142,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors,1580,2,7
+143,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors/Family,1600,2,4
+144,Hastinapuram,,Flat,2,15000,Immediately,Bachelors/Family,1950,5,2
+145,Alwal,,Flat,2,45000,Immediately,Bachelors,1750,5,12
+146,Puppalguda,,Flat,3,24000,Immediately,Bachelors,500,2,2
+147,Gachibowli,,Flat,3,45000,From Aug '24,Family,550,2,2
+148,"Kokapet, Outer Ring","Road,",Flat,2,65000,Immediately,Bachelors,2100,3,3
+149,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,3100,3,8
+150,"Kokapet, Outer Ring",Road,Villa,4,75000,Immediately,Bachelors/Family,2100,1,3
+151,Nalagandla,,Flat,4,44500,Immediately,Bachelors,1770,1,2
+152,Nalagandla,,Flat,3,53000,Immediately,Bachelors,2000,1,5
+153,Kondapur,,Flat,2,45000,Immediately,Bachelors/Family,600,1,7
+154,"Kollur, Outer Ring",Road,Villa,5,10000,Immediately,Bachelors/Family,4000,4,26
+155,Masjid,"Banda,",Flat,3,53000,Immediately,Bachelors/Family,1900,4,5
+156,Shaikpet,,Flat,3,60000,Immediately,Bachelors,1300,1,12
+157,Pragathi Nagar,"Kukatpally,",Flat,3,90000,Immediately,Family,6800,1,26
+158,Tirumalagiri,,Villa,2,110000,Immediately,Bachelors,1630,2,5
+159,Hitech,"City,",Flat,3,38000,Immediately,Family,1900,2,7
+160,Kondapur,,Flat,3,24000,Immediately,Bachelors/Family,2900,1,4
+161,"Kokapet, Outer Ring","Road,",Flat,3,20000,Immediately,Bachelors/Family,6000,1,3
+162,Khajaguda,,Villa,4,40000,Immediately,Bachelors,1250,4,4
+163,Defence Colony,Sainikpuri,Flat,3,70000,Immediately,Bachelors/Family,1000,4,1
+164,Pragathi,"Enclave,",Flat,3,120000,Immediately,Bachelors,1000,2,2
+165,"Financial District, Nanakram","Guda,",Flat,3,55000,Immediately,Bachelors/Family,2961,2,1
+166,Izzathnagar,,Flat,4,52000,Immediately,Bachelors,1500,4,1
+167,"Basheer Bagh, NH","7,",Flat,2,65000,Immediately,Bachelors,750,4,1
+168,Chanda,Nagar,Villa,3,130000,Immediately,Bachelors,6600,1,1
+169,"Narsingi, Outer Ring","Road,",Flat,3,60000,Immediately,Bachelors/Family,1200,1,3
+170,Narayanguda,,Flat,3,65000,Immediately,Bachelors,1900,5,4
+171,Gachibowli,,Flat,4,65000,Immediately,Bachelors,3200,5,3
+172,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,22500,Immediately,Bachelors,6456,2,5
+173,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,1710,2,2
+174,Hastinapuram,,Flat,2,60000,Immediately,Bachelors,1010,4,1
+175,Alwal,,Flat,2,18000,Immediately,Bachelors/Family,1000,4,12
+176,Puppalguda,,Flat,3,50000,Immediately,Bachelors/Family,2200,5,4
+177,Gachibowli,,Flat,3,32000,Immediately,Bachelors,1150,5,1
+178,"Kokapet, Outer Ring","Road,",Flat,2,140000,Immediately,Bachelors/Family,2400,2,4
+179,leke villa,Gandipet,Villa,5,10000,Immediately,Bachelors/Family,400,2,4
+180,"Kokapet, Outer Ring",Road,Villa,4,120000,Immediately,Bachelors/Family,600,2,4
+181,Nalagandla,,Flat,4,16000,Immediately,Bachelors,3400,2,2
+182,Nalagandla,,Flat,3,75000,Immediately,Bachelors/Family,500,3,1
+183,Kondapur,,Flat,2,40000,Immediately,Bachelors/Family,2700,3,6
+184,"Kollur, Outer Ring",Road,Villa,5,65000,Immediately,Family,3000,3,1
+185,Masjid,"Banda,",Flat,3,70000,Immediately,Bachelors/Family,1350,3,3
+186,Shaikpet,,Flat,3,18000,Immediately,Bachelors/Family,7100,2,4
+187,Pragathi Nagar,"Kukatpally,",Flat,3,320000,From Nov '24,Bachelors/Family,1500,2,3
+188,Tirumalagiri,,Villa,2,70000,Immediately,Bachelors/Family,1800,1,2
+189,Hitech,"City,",Flat,3,19800,Immediately,Bachelors/Family,3300,1,2
+190,Kondapur,,Flat,3,27000,Immediately,Bachelors/Family,2100,4,2
+191,"Kokapet, Outer Ring","Road,",Flat,3,55000,Immediately,Bachelors,4000,4,2
+192,Khajaguda,,Villa,4,5000,Immediately,Bachelors/Family,1700,10,1
+193,Defence Colony,Sainikpuri,Flat,3,60000,Immediately,Bachelors/Family,3300,10,22
+194,Pragathi,"Enclave,",Flat,3,16000,Immediately,Bachelors,450,4,3
+195,"Financial District, Nanakram","Guda,",Flat,3,18000,Immediately,Bachelors,1800,4,1
+196,Izzathnagar,,Flat,4,10000,Immediately,Bachelors/Family,3000,3,4
+197,"Basheer Bagh, NH","7,",Flat,2,16000,Immediately,Family,1500,3,1
+198,Chanda,Nagar,Villa,3,70000,Immediately,Bachelors/Family,2250,3,2
+199,"Narsingi, Outer Ring","Road,",Flat,3,16500,Immediately,Bachelors/Family,242,3,1
+200,Narayanguda,,Flat,3,60000,Immediately,Bachelors/Family,1250,6,2
+201,Gachibowli,,Flat,4,20000,Immediately,Bachelors/Family,2400,6,6
+202,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,30000,Immediately,Bachelors/Family,1300,5,1
+203,Dandamudi Enclave,"Jeedimetla,",Flat,4,50000,Immediately,Bachelors,1900,5,2
+204,Hastinapuram,,Flat,2,120000,Immediately,Family,3150,2,1
+205,Alwal,,Flat,2,25000,Immediately,Bachelors/Family,2800,2,1
+206,Puppalguda,,Flat,3,50000,Immediately,Bachelors/Family,11500,4,1
+207,Gachibowli,,Flat,3,680000,Immediately,Bachelors/Family,4300,4,2
+208,"Kokapet, Outer Ring","Road,",Flat,2,150000,Immediately,Bachelors/Family,1800,1,4
+209,leke villa,Gandipet,Villa,5,110000,Immediately,Bachelors/Family,1700,1,2
+210,"Kokapet, Outer Ring",Road,Villa,4,320000,Immediately,Bachelors/Family,2400,1,5
+211,Nalagandla,,Flat,4,110000,Immediately,Bachelors,1200,1,12
+212,Nalagandla,,Flat,3,120000,Immediately,Bachelors/Family,2200,1,3
+213,Kondapur,,Flat,2,250000,Immediately,Bachelors/Family,3400,1,1
+214,"Kollur, Outer Ring",Road,Villa,5,40000,Immediately,Bachelors/Family,1700,1,5
+215,Masjid,"Banda,",Flat,3,10000,Immediately,Bachelors/Family,4800,1,2
+216,Shaikpet,,Flat,3,24000,Immediately,Bachelors/Family,3000,3,1
+217,Pragathi Nagar,"Kukatpally,",Flat,3,35000,Immediately,Bachelors/Family,27000,3,4
+218,Tirumalagiri,,Villa,2,65000,Immediately,Bachelors/Family,18000,3,3
+219,Hitech,"City,",Flat,3,20000,Immediately,Bachelors/Family,7900,3,9
+220,Kondapur,,Flat,3,120000,Immediately,Bachelors/Family,2500,2,5
+221,"Kokapet, Outer Ring","Road,",Flat,3,30000,Immediately,Bachelors/Family,2005,2,5
+222,Khajaguda,,Villa,4,90000,Immediately,Bachelors/Family,2500,2,1
+223,Defence Colony,Sainikpuri,Flat,3,250000,Immediately,Bachelors/Family,1065,2,1
+224,Pragathi,"Enclave,",Flat,3,75000,Immediately,Bachelors/Family,5549,4,3
+225,"Financial District, Nanakram","Guda,",Flat,3,1050000,From Aug '24,Bachelors/Family,900,4,2
+226,Izzathnagar,,Flat,4,70000,Immediately,Bachelors,1140,3,3
+227,"Basheer Bagh, NH","7,",Flat,2,240000,Immediately,Bachelors/Family,1218,3,15
+228,Chanda,Nagar,Villa,3,95000,Immediately,Bachelors/Family,1300,2,1
+229,"Narsingi, Outer Ring","Road,",Flat,3,290000,Immediately,Bachelors/Family,5600,2,5
+230,Narayanguda,,Flat,3,850000,Immediately,Bachelors/Family,2800,2,19
+231,Gachibowli,,Flat,4,39000,Immediately,Bachelors/Family,3200,2,1
+232,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,25000,Immediately,Family,1800,3,7
+233,Dandamudi Enclave,"Jeedimetla,",Flat,4,55000,Immediately,Bachelors/Family,1650,3,3
+234,Hastinapuram,,Flat,2,45000,Immediately,Bachelors/Family,2800,2,3
+235,Alwal,,Flat,2,85000,Immediately,Bachelors,1800,2,2
+236,Puppalguda,,Flat,3,50000,Immediately,Bachelors/Family,2200,2,2
+237,Gachibowli,,Flat,3,90000,Immediately,Bachelors/Family,37750,2,15
+238,"Kokapet, Outer Ring","Road,",Flat,2,440000,From Aug '24,Bachelors/Family,1700,1,2
+239,leke villa,Gandipet,Villa,5,110000,Immediately,Bachelors,2915,1,2
+240,"Kokapet, Outer Ring",Road,Villa,4,120000,Immediately,Bachelors/Family,1200,2,1
+241,Nalagandla,,Flat,4,1210000,Immediately,Bachelors/Family,15000,2,3
+242,Nalagandla,,Flat,3,350000,Immediately,Bachelors/Family,600,5,1
+243,Kondapur,,Flat,2,75000,Immediately,Bachelors/Family,2500,5,2
+244,"Kollur, Outer Ring",Road,Villa,5,180000,Immediately,Bachelors/Family,4800,3,2
+245,Masjid,"Banda,",Flat,3,75000,Immediately,Bachelors/Family,1600,3,4
+246,Shaikpet,,Flat,3,80000,Immediately,Bachelors/Family,1900,3,15
+247,Pragathi Nagar,"Kukatpally,",Flat,3,760000,Immediately,Bachelors/Family,2400,3,4
+248,Tirumalagiri,,Villa,2,50000,Immediately,Bachelors/Family,1300,3,2
+249,Hitech,"City,",Flat,3,59900,Immediately,Bachelors/Family,1850,3,2
+250,Kondapur,,Flat,3,65000,Immediately,Bachelors,4920,4,1
+251,"Kokapet, Outer Ring","Road,",Flat,3,130000,Immediately,Bachelors/Family,640,4,4
+252,Khajaguda,,Villa,4,10000,Immediately,Bachelors/Family,2000,2,1
+253,Defence Colony,Sainikpuri,Flat,3,75000,Immediately,Bachelors/Family,1400,2,6
+254,Pragathi,"Enclave,",Flat,3,480000,Immediately,Bachelors/Family,700,1,5
+255,"Financial District, Nanakram","Guda,",Flat,3,45000,Immediately,Bachelors/Family,180,1,2
+256,Izzathnagar,,Flat,4,10000,Immediately,Bachelors/Family,2400,3,2
+257,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,6000,3,7
+258,Chanda,Nagar,Villa,3,20000,Immediately,Bachelors,5000,1,3
+259,"Narsingi, Outer Ring","Road,",Flat,3,70000,From Jul '24,Family,1800,1,1
+260,Narayanguda,,Flat,3,160000,Immediately,Bachelors/Family,1000,3,3
+261,Gachibowli,,Flat,4,15000,Immediately,Bachelors/Family,950,3,1
+262,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,190000,Immediately,Bachelors,1500,3,3
+263,Dandamudi Enclave,"Jeedimetla,",Flat,4,90000,Immediately,Bachelors/Family,1400,3,4
+264,Hastinapuram,,Flat,2,250000,Immediately,Bachelors/Family,2000,3,6
+265,Alwal,,Flat,2,18000,Immediately,Bachelors/Family,2200,3,2
+266,Puppalguda,,Flat,3,160000,Immediately,Bachelors/Family,6000,3,2
+267,Gachibowli,,Flat,3,49000,Immediately,Bachelors/Family,2200,3,9
+268,"Kokapet, Outer Ring","Road,",Flat,2,11000,Immediately,Bachelors/Family,3700,2,5
+269,leke villa,Gandipet,Villa,5,33000,Immediately,Bachelors/Family,1335,2,5
+270,"Kokapet, Outer Ring",Road,Villa,4,10000,From Aug '24,Bachelors/Family,1800,3,3
+271,Nalagandla,,Flat,4,150000,Immediately,Bachelors,450 sqyrd,3,5
+272,Nalagandla,,Flat,3,75000,Immediately,Bachelors/Family,1400,3,3
+273,Kondapur,,Flat,2,36000,Immediately,Bachelors/Family,350,3,2
+274,"Kollur, Outer Ring",Road,Villa,5,76000,Immediately,Bachelors,4200,3,3
+275,Masjid,"Banda,",Flat,3,45000,Immediately,Bachelors,1900,3,1
+276,Shaikpet,,Flat,3,90000,Immediately,Bachelors/Family,9600,3,6
+277,Pragathi Nagar,"Kukatpally,",Flat,3,110000,Immediately,Family,2600,3,15
+278,Tirumalagiri,,Villa,2,22000,Immediately,Bachelors/Family,1400,3,5
+279,Hitech,"City,",Flat,3,32000,Immediately,Bachelors/Family,850,3,4
+280,Kondapur,,Flat,3,45000,Immediately,Family,1020,5,2
+281,"Kokapet, Outer Ring","Road,",Flat,3,24000,Immediately,Bachelors/Family,750,5,2
+282,Khajaguda,,Villa,4,10000,Immediately,Bachelors/Family,3500,3,2
+283,Defence Colony,Sainikpuri,Flat,3,130000,Immediately,Bachelors/Family,1550,3,2
+284,Pragathi,"Enclave,",Flat,3,170000,Immediately,Bachelors,1300,3,3
+285,"Financial District, Nanakram","Guda,",Flat,3,150000,Immediately,Bachelors/Family,1800,3,5
+286,Izzathnagar,,Flat,4,30000,Immediately,Bachelors/Family,2010,1,3
+287,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,1700,1,2
+288,Chanda,Nagar,Villa,3,30000,Immediately,Bachelors/Family,3700,1,1
+289,"Narsingi, Outer Ring","Road,",Flat,3,15000,Immediately,Bachelors/Family,2100,1,5
+290,Narayanguda,,Flat,3,75000,Immediately,Bachelors/Family,1000,2,3
+291,Gachibowli,,Flat,4,33000,Immediately,Family,600,2,3
+292,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,140000,Immediately,Bachelors/Family,130,4,1
+293,Dandamudi Enclave,"Jeedimetla,",Flat,4,55000,Immediately,Bachelors/Family,1050,4,1
+294,Hastinapuram,,Flat,2,420000,Immediately,Bachelors/Family,1035,3,4
+295,Alwal,,Flat,2,65000,Immediately,Bachelors/Family,1600,3,3
+296,Puppalguda,,Flat,3,290000,Immediately,Bachelors/Family,1900,3,3
+297,Gachibowli,,Flat,3,25000,Immediately,Bachelors/Family,1500,3,3
+298,"Kokapet, Outer Ring","Road,",Flat,2,62000,Immediately,Family,4580,2,17
+299,leke villa,Gandipet,Villa,5,130000,Immediately,Bachelors/Family,4000,2,2
+300,"Kokapet, Outer Ring",Road,Villa,4,50000,Immediately,Bachelors,3200,3,4
+301,Nalagandla,,Flat,4,24000,Immediately,Bachelors/Family,1200,3,9
+302,Nalagandla,,Flat,3,24000,Immediately,Bachelors,1800,4,4
+303,Kondapur,,Flat,2,160000,Immediately,Bachelors/Family,750,4,4
+304,"Kollur, Outer Ring",Road,Villa,5,60000,Immediately,Bachelors/Family,2200,3,3
+305,Masjid,"Banda,",Flat,3,8500,Immediately,Bachelors/Family,16000,3,3
+306,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,1800,3,3
+307,Pragathi Nagar,"Kukatpally,",Flat,3,50000,Immediately,Bachelors/Family,1600,3,4
+308,Tirumalagiri,,Villa,2,15500,Immediately,Bachelors/Family,1800,3,5
+309,Hitech,"City,",Flat,3,13500,Immediately,Bachelors,4500,3,5
+310,Kondapur,,Flat,3,25000,Immediately,Bachelors/Family,270,1,1
+311,"Kokapet, Outer Ring","Road,",Flat,3,110000,Immediately,Bachelors/Family,1216,1,1
+312,Khajaguda,,Villa,4,38000,Immediately,Bachelors/Family,1400,4,4
+313,Defence Colony,Sainikpuri,Flat,3,10000,Immediately,Bachelors/Family,2000,4,5
+314,Pragathi,"Enclave,",Flat,3,35000,Immediately,Bachelors,745,3,1
+315,"Financial District, Nanakram","Guda,",Flat,3,35000,Immediately,Bachelors,3600,3,1
+316,Izzathnagar,,Flat,4,20000,Immediately,Bachelors/Family,1500,2,3
+317,"Basheer Bagh, NH","7,",Flat,2,35000,Immediately,Bachelors,850,2,17
+318,Chanda,Nagar,Villa,3,70000,Immediately,Bachelors/Family,260,4,3
+319,"Narsingi, Outer Ring","Road,",Flat,3,20000,Immediately,Bachelors/Family,1400,4,1
+320,Narayanguda,,Flat,3,28000,Immediately,Bachelors/Family,1957,3,3
+321,Gachibowli,,Flat,4,6500,Immediately,Bachelors/Family,1050,3,6
+322,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,10000,Immediately,Family,1500,2,1
+323,Dandamudi Enclave,"Jeedimetla,",Flat,4,36000,Immediately,Bachelors/Family,26000,2,1
+324,Hastinapuram,,Flat,2,170000,From Sep '24,Bachelors/Family,1350,2,1
+325,Alwal,,Flat,2,60000,Immediately,Bachelors/Family,2000,2,2
+326,Puppalguda,,Flat,3,42000,Immediately,Bachelors/Family,3500,3,1
+327,Gachibowli,,Flat,3,20000,Immediately,Bachelors,3500,3,2
+328,"Kokapet, Outer Ring","Road,",Flat,2,180000,Immediately,Bachelors,1400,2,3
+329,leke villa,Gandipet,Villa,5,10000,Immediately,Bachelors/Family,13000,2,3
+330,"Kokapet, Outer Ring",Road,Villa,4,16000,Immediately,Bachelors/Family,200,1,8
+331,Nalagandla,,Flat,4,20000,Immediately,Family,1200,1,6
+332,Nalagandla,,Flat,3,10000,Immediately,Bachelors/Family,3500,5,1
+333,Kondapur,,Flat,2,90000,Immediately,Bachelors/Family,1450,5,1
+334,"Kollur, Outer Ring",Road,Villa,5,60000,Immediately,Bachelors/Family,900,1,3
+335,Masjid,"Banda,",Flat,3,12000,Immediately,Bachelors/Family,900,1,1
+336,Shaikpet,,Flat,3,180000,Immediately,Bachelors/Family,1400,6,13
+337,Pragathi Nagar,"Kukatpally,",Flat,3,21000,Immediately,Bachelors,1400,6,1
+338,Tirumalagiri,,Villa,2,40000,Immediately,Bachelors/Family,1000,2,2
+339,Hitech,"City,",Flat,3,30000,Immediately,Bachelors/Family,1450,2,1
+340,Kondapur,,Flat,3,7000,Immediately,Bachelors/Family,1350,1,6
+341,"Kokapet, Outer Ring","Road,",Flat,3,70000,Immediately,Bachelors/Family,3101,1,1
+342,Khajaguda,,Villa,4,110000,Immediately,Bachelors/Family,505,4,1
+343,Defence Colony,Sainikpuri,Flat,3,230000,Immediately,Bachelors/Family,1400,4,16
+344,Pragathi,"Enclave,",Flat,3,38000,Immediately,Bachelors/Family,3100,4,1
+345,"Financial District, Nanakram","Guda,",Flat,3,78000,Immediately,Family,1335,4,3
+346,Izzathnagar,,Flat,4,280000,Immediately,Bachelors/Family,1400,2,6
+347,"Basheer Bagh, NH","7,",Flat,2,35000,From Sep '24,Family,1200,2,1
+348,Chanda,Nagar,Villa,3,20000,Immediately,Family,998,2,1
+349,"Narsingi, Outer Ring","Road,",Flat,3,20000,Immediately,Bachelors/Family,1650,2,2
+350,Narayanguda,,Flat,3,65000,Immediately,Bachelors/Family,1100,2,8
+351,Gachibowli,,Flat,4,67000,Immediately,Family,900,2,1
+352,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,12000,Immediately,Bachelors,1680,5,1
+353,Dandamudi Enclave,"Jeedimetla,",Flat,4,12500,Immediately,Bachelors/Family,1300,5,2
+354,Hastinapuram,,Flat,2,60000,Immediately,Bachelors/Family,1050,2,2
+355,Alwal,,Flat,2,20000,Immediately,Bachelors/Family,900,2,1
+356,Puppalguda,,Flat,3,23000,Immediately,Bachelors/Family,1350,2,2
+357,Gachibowli,,Flat,3,10000,Immediately,Bachelors/Family,1200,2,1
+358,"Kokapet, Outer Ring","Road,",Flat,2,80000,Immediately,Bachelors/Family,3061,2,3
+359,leke villa,Gandipet,Villa,5,250000,Immediately,Bachelors/Family,4000,2,5
+360,"Kokapet, Outer Ring",Road,Villa,4,60000,Immediately,Bachelors/Family,1300,4,3
+361,Nalagandla,,Flat,4,20000,Immediately,Bachelors/Family,1300,4,2
+362,Nalagandla,,Flat,3,12000,Immediately,Bachelors/Family,1400,4,4
+363,Kondapur,,Flat,2,28000,Immediately,Bachelors/Family,900,4,2
+364,"Kollur, Outer Ring",Road,Villa,5,110000,Immediately,Bachelors,1500,2,4
+365,Masjid,"Banda,",Flat,3,48000,From Jul '24,Bachelors/Family,650,2,1
+366,Shaikpet,,Flat,3,15500,Immediately,Bachelors/Family,1400,4,1
+367,Pragathi Nagar,"Kukatpally,",Flat,3,20000,Immediately,Bachelors,3800,4,2
+368,Tirumalagiri,,Villa,2,28000,Immediately,Bachelors/Family,1100,2,1
+369,Hitech,"City,",Flat,3,25000,Immediately,Bachelors,1300,2,3
+370,Kondapur,,Flat,3,85000,Immediately,Family,1700,2,1
+371,"Kokapet, Outer Ring","Road,",Flat,3,17000,Immediately,Family,2100,2,2
+372,Khajaguda,,Villa,4,25000,From Aug '24,Family,1100,3,1
+373,Defence Colony,Sainikpuri,Flat,3,15000,Immediately,Family,500,3,2
+374,Pragathi,"Enclave,",Flat,3,50000,Immediately,Bachelors/Family,1900,2,6
+375,"Financial District, Nanakram","Guda,",Flat,3,15000,Immediately,Bachelors,160,2,1
+376,Izzathnagar,,Flat,4,16000,From Aug '24,Family,600,4,12
+377,"Basheer Bagh, NH","7,",Flat,2,90000,Immediately,Family,250,4,3
+378,Chanda,Nagar,Villa,3,69000,Immediately,Bachelors/Family,2000,2,6
+379,"Narsingi, Outer Ring","Road,",Flat,3,32500,Immediately,Bachelors/Family,900,2,1
+380,Narayanguda,,Flat,3,20000,Immediately,Family,1500,1,3
+381,Gachibowli,,Flat,4,38000,Immediately,Bachelors,650,1,1
+382,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,20000,From Aug '24,Bachelors/Family,1700,2,2
+383,Dandamudi Enclave,"Jeedimetla,",Flat,4,25000,Immediately,Bachelors/Family,1000,2,1
+384,Hastinapuram,,Flat,2,10000,Immediately,Family,1600,5,4
+385,Alwal,,Flat,2,16000,Immediately,Bachelors/Family,2250,5,2
+386,Puppalguda,,Flat,3,9000,Immediately,Bachelors,1900,1,1
+387,Gachibowli,,Flat,3,12500,Immediately,Bachelors,1600,1,2
+388,"Kokapet, Outer Ring","Road,",Flat,2,28000,Immediately,Bachelors/Family,200,3,8
+389,leke villa,Gandipet,Villa,5,40000,Immediately,Bachelors/Family,1575 hectare,3,1
+390,"Kokapet, Outer Ring",Road,Villa,4,36000,Immediately,Bachelors/Family,3400,3,2
+391,Nalagandla,,Flat,4,25000,Immediately,Bachelors/Family,991,3,4
+392,Nalagandla,,Flat,3,130000,Immediately,Bachelors/Family,1300,2,1
+393,Kondapur,,Flat,2,20000,Immediately,Family,900,2,2
+394,"Kollur, Outer Ring",Road,Villa,5,23000,Immediately,Bachelors,2000,2,1
+395,Masjid,"Banda,",Flat,3,40000,Immediately,Bachelors,900,2,2
+396,Shaikpet,,Flat,3,13000,Immediately,Bachelors/Family,1372,2,1
+397,Pragathi Nagar,"Kukatpally,",Flat,3,35000,Immediately,Bachelors/Family,1100,2,5
+398,Tirumalagiri,,Villa,2,28000,Immediately,Bachelors/Family,800,4,2
+399,Hitech,"City,",Flat,3,18000,Immediately,Family,1040,4,3
+400,Kondapur,,Flat,3,70000,Immediately,Family,800,2,2
+401,"Kokapet, Outer Ring","Road,",Flat,3,12500,Immediately,Bachelors/Family,1100,2,1
+402,Khajaguda,,Villa,4,18000,Immediately,Bachelors/Family,1200,2,1
+403,Defence Colony,Sainikpuri,Flat,3,50000,Immediately,Bachelors/Family,3500,2,2
+404,Pragathi,"Enclave,",Flat,3,39000,Immediately,Bachelors/Family,960,1,1
+405,"Financial District, Nanakram","Guda,",Flat,3,16000,Immediately,Bachelors/Family,980,1,5
+406,Izzathnagar,,Flat,4,10000,Immediately,Bachelors/Family,1300,3,2
+407,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,750,3,4
+408,Chanda,Nagar,Villa,3,10000,Immediately,Bachelors/Family,1000,3,3
+409,"Narsingi, Outer Ring","Road,",Flat,3,9500,Immediately,Bachelors/Family,1600,3,5
+410,Narayanguda,,Flat,3,17000,Immediately,Bachelors/Family,600,4,1
+411,Gachibowli,,Flat,4,150000,Immediately,Bachelors/Family,1000,4,5
+412,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,12000,Immediately,Bachelors,150,1,5
+413,Dandamudi Enclave,"Jeedimetla,",Flat,4,32000,Immediately,Bachelors/Family,1395,1,26
+414,Hastinapuram,,Flat,2,13500,Immediately,Bachelors/Family,1600,5,1
+415,Alwal,,Flat,2,85000,Immediately,Bachelors/Family,230,5,1
+416,Puppalguda,,Flat,3,41000,Immediately,Bachelors/Family,400,3,1
+417,Gachibowli,,Flat,3,36000,Immediately,Family,3600,3,1
+418,"Kokapet, Outer Ring","Road,",Flat,2,160000,Immediately,Bachelors/Family,1500,2,3
+419,leke villa,Gandipet,Villa,5,40000,Immediately,Family,750,2,6
+420,"Kokapet, Outer Ring",Road,Villa,4,21000,Immediately,Bachelors,1200,1,2
+421,Nalagandla,,Flat,4,6000,Immediately,Bachelors/Family,1200,1,1
+422,Nalagandla,,Flat,3,25000,Immediately,Bachelors,1100,3,6
+423,Kondapur,,Flat,2,150000,Immediately,Bachelors/Family,1600,3,1
+424,"Kollur, Outer Ring",Road,Villa,5,95000,Immediately,Bachelors/Family,1900,8,1
+425,Masjid,"Banda,",Flat,3,25000,Immediately,Bachelors/Family,1200,8,5
+426,Shaikpet,,Flat,3,13000,Immediately,Bachelors/Family,1100,10,1
+427,Pragathi Nagar,"Kukatpally,",Flat,3,30000,Immediately,Bachelors/Family,1200,10,3
+428,Tirumalagiri,,Villa,2,15000,Immediately,Bachelors/Family,1200,2,4
+429,Hitech,"City,",Flat,3,38000,Immediately,Bachelors,800,2,1
+430,Kondapur,,Flat,3,20000,Immediately,Bachelors,1986,3,1
+431,"Kokapet, Outer Ring","Road,",Flat,3,17000,Immediately,Bachelors/Family,350,3,3
+432,Khajaguda,,Villa,4,22000,Immediately,Family,1200,3,2
+433,Defence Colony,Sainikpuri,Flat,3,9000,Immediately,Bachelors,1700,3,1
+434,Pragathi,"Enclave,",Flat,3,22000,Immediately,Bachelors/Family,550,2,5
+435,"Financial District, Nanakram","Guda,",Flat,3,15000,Immediately,Bachelors/Family,795,2,1
+436,Izzathnagar,,Flat,4,20000,Immediately,Bachelors/Family,550,1,10
+437,"Basheer Bagh, NH","7,",Flat,2,26000,Immediately,Bachelors/Family,1500,1,4
+438,Chanda,Nagar,Villa,3,11500,Immediately,Bachelors,1100,2,4
+439,"Narsingi, Outer Ring","Road,",Flat,3,25000,Immediately,Bachelors/Family,1500,2,1
+440,Narayanguda,,Flat,3,13000,Immediately,Family,1000,2,3
+441,Gachibowli,,Flat,4,20000,Immediately,Bachelors/Family,2600,2,16
+442,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,28000,Immediately,Bachelors,1400,3,3
+443,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors/Family,1003,3,27
+444,Hastinapuram,,Flat,2,16500,Immediately,Bachelors/Family,1600,2,1
+445,Alwal,,Flat,2,35000,Immediately,Bachelors/Family,1300,2,12
+446,Puppalguda,,Flat,3,25000,Immediately,Family,2400,2,6
+447,Gachibowli,,Flat,3,18000,Immediately,Bachelors,1000,2,4
+448,"Kokapet, Outer Ring","Road,",Flat,2,25000,Immediately,Bachelors/Family,1400,1,3
+449,leke villa,Gandipet,Villa,5,6500,Immediately,Bachelors/Family,1000,1,8
+450,"Kokapet, Outer Ring",Road,Villa,4,60000,Immediately,Bachelors/Family,1800,2,6
+451,Nalagandla,,Flat,4,15000,Immediately,Bachelors/Family,5400,2,2
+452,Nalagandla,,Flat,3,11000,Immediately,Bachelors/Family,1800,5,24
+453,Kondapur,,Flat,2,30000,Immediately,Bachelors/Family,1983,5,33
+454,"Kollur, Outer Ring",Road,Villa,5,62000,Immediately,Bachelors/Family,4050,3,1
+455,Masjid,"Banda,",Flat,3,22000,Immediately,Family,1000,3,4
+456,Shaikpet,,Flat,3,28000,Immediately,Bachelors/Family,1420,3,3
+457,Pragathi Nagar,"Kukatpally,",Flat,3,26000,Immediately,Bachelors/Family,1876,3,1
+458,Tirumalagiri,,Villa,2,24500,Immediately,Family,2100,3,10
+459,Hitech,"City,",Flat,3,95000,Immediately,Bachelors/Family,1350,3,1
+460,Kondapur,,Flat,3,42000,Immediately,Bachelors/Family,1800,3,3
+461,"Kokapet, Outer Ring","Road,",Flat,3,15000,Immediately,Bachelors/Family,600,3,6
+462,Khajaguda,,Villa,4,15000,Immediately,Bachelors/Family,600,4,2
+463,Defence Colony,Sainikpuri,Flat,3,55000,Immediately,Bachelors/Family,1250,4,1
+464,Pragathi,"Enclave,",Flat,3,10500,Immediately,Bachelors/Family,1700,3,2
+465,"Financial District, Nanakram","Guda,",Flat,3,17500,Immediately,Bachelors/Family,1500,3,4
+466,Izzathnagar,,Flat,4,35000,Immediately,Bachelors/Family,1300,4,2
+467,"Basheer Bagh, NH","7,",Flat,2,6500,Immediately,Bachelors,1000,4,1
+468,Chanda,Nagar,Villa,3,8000,Immediately,Family,1250,2,18
+469,"Narsingi, Outer Ring","Road,",Flat,3,40000,Immediately,Bachelors/Family,950,2,7
+470,Narayanguda,,Flat,3,18000,Immediately,Bachelors/Family,2300,1,3
+471,Gachibowli,,Flat,4,23000,Immediately,Bachelors,1400,1,1
+472,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,20000,Immediately,Family,950,3,2
+473,Dandamudi Enclave,"Jeedimetla,",Flat,4,16000,Immediately,Bachelors,900,3,1
+474,Hastinapuram,,Flat,2,40000,Immediately,Bachelors/Family,1250,2,2
+475,Alwal,,Flat,2,36000,Immediately,Bachelors/Family,300,2,17
+476,Puppalguda,,Flat,3,36000,Immediately,Bachelors,1900,2,5
+477,Gachibowli,,Flat,3,20000,Immediately,Bachelors/Family,1900,2,2
+478,"Kokapet, Outer Ring","Road,",Flat,2,30000,Immediately,Family,550,3,2
+479,leke villa,Gandipet,Villa,5,60000,Immediately,Bachelors,2600,3,1
+480,"Kokapet, Outer Ring",Road,Villa,4,30000,Immediately,Bachelors,400,2,8
+481,Nalagandla,,Flat,4,15000,Immediately,Bachelors,1800,2,1
+482,Nalagandla,,Flat,3,25000,Immediately,Bachelors/Family,1000,4,2
+483,Kondapur,,Flat,2,75000,Immediately,Bachelors,1800,4,3
+484,"Kollur, Outer Ring",Road,Villa,5,150000,Immediately,Bachelors/Family,1500,6,4
+485,Masjid,"Banda,",Flat,3,210000,Immediately,Bachelors/Family,3250,6,4
+486,Shaikpet,,Flat,3,280000,Immediately,Family,5500,1,1
+487,Pragathi Nagar,"Kukatpally,",Flat,3,60000,Immediately,Bachelors/Family,11800,1,2
+488,Tirumalagiri,,Villa,2,120000,Immediately,Family,700,3,6
+489,Hitech,"City,",Flat,3,190000,Immediately,Bachelors,850,3,3
+490,Kondapur,,Flat,3,52000,Immediately,Bachelors,1900,3,2
+491,"Kokapet, Outer Ring","Road,",Flat,3,49000,Immediately,Bachelors/Family,475,3,1
+492,Khajaguda,,Villa,4,10000,Immediately,Bachelors,1600,3,1
+493,Defence Colony,Sainikpuri,Flat,3,20000,Immediately,Bachelors/Family,1700,3,1
+494,Pragathi,"Enclave,",Flat,3,53000,Immediately,Bachelors,1072,3,2
+495,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,2100,3,1
+496,Izzathnagar,,Flat,4,60000,Immediately,Bachelors,1700,4,18
+497,"Basheer Bagh, NH","7,",Flat,2,80000,Immediately,Family,1000,4,24
+498,Chanda,Nagar,Villa,3,38000,Immediately,Bachelors/Family,1900,1,1
+499,"Narsingi, Outer Ring","Road,",Flat,3,75000,Immediately,Family,1600,1,4
+500,Narayanguda,,Flat,3,65000,Immediately,Family,550,3,6
+501,Gachibowli,,Flat,4,17000,Immediately,Bachelors,1050,3,8
+502,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,60000,Immediately,Bachelors/Family,1000,3,1
+503,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors/Family,1500,3,4
+504,Hastinapuram,,Flat,2,13500,Immediately,Bachelors,900,1,1
+505,Alwal,,Flat,2,27000,Immediately,Bachelors,900,1,3
+506,Puppalguda,,Flat,3,30000,Immediately,Bachelors/Family,1200,2,3
+507,Gachibowli,,Flat,3,30000,Immediately,Bachelors/Family,1000,2,2
+508,"Kokapet, Outer Ring","Road,",Flat,2,21000,Immediately,Bachelors,500,4,2
+509,leke villa,Gandipet,Villa,5,14000,Immediately,Bachelors,1700,4,4
+510,"Kokapet, Outer Ring",Road,Villa,4,45000,Immediately,Bachelors,1500,5,5
+511,Nalagandla,,Flat,4,12500,Immediately,Bachelors/Family,1000,5,1
+512,Nalagandla,,Flat,3,90000,Immediately,Family,1000,2,17
+513,Kondapur,,Flat,2,45000,Immediately,Bachelors,3600,2,4
+514,"Kollur, Outer Ring",Road,Villa,5,13000,Immediately,Bachelors/Family,1505,3,5
+515,Masjid,"Banda,",Flat,3,20000,Immediately,Bachelors/Family,900,3,3
+516,Shaikpet,,Flat,3,35000,Immediately,Bachelors,800,2,1
+517,Pragathi Nagar,"Kukatpally,",Flat,3,20000,Immediately,Bachelors/Family,2800,2,4
+518,Tirumalagiri,,Villa,2,75000,Immediately,Bachelors/Family,1000,2,3
+519,Hitech,"City,",Flat,3,55000,Immediately,Bachelors/Family,1400,2,2
+520,Kondapur,,Flat,3,15000,Immediately,Bachelors/Family,900,2,1
+521,"Kokapet, Outer Ring","Road,",Flat,3,50000,Immediately,Bachelors/Family,2600,2,2
+522,Khajaguda,,Villa,4,50000,Immediately,Bachelors/Family,2200,3,3
+523,Defence Colony,Sainikpuri,Flat,3,45000,Immediately,Bachelors/Family,1222,3,1
+524,Pragathi,"Enclave,",Flat,3,13000,Immediately,Bachelors,500,3,3
+525,"Financial District, Nanakram","Guda,",Flat,3,30000,Immediately,Bachelors,3000,3,2
+526,Izzathnagar,,Flat,4,35000,Immediately,Family,850,3,1
+527,"Basheer Bagh, NH","7,",Flat,2,10000,Immediately,Bachelors/Family,1000,3,1
+528,Chanda,Nagar,Villa,3,130000,Immediately,Bachelors/Family,2406,3,3
+529,"Narsingi, Outer Ring","Road,",Flat,3,80000,Immediately,Bachelors/Family,8000,3,5
+530,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,1908,2,3
+531,Gachibowli,,Flat,4,13000,Immediately,Bachelors/Family,3005,2,3
+532,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,60000,Immediately,Bachelors/Family,32000,2,1
+533,Dandamudi Enclave,"Jeedimetla,",Flat,4,130000,Immediately,Bachelors/Family,4736,2,20
+534,Hastinapuram,,Flat,2,15000,Immediately,Bachelors/Family,1800,4,2
+535,Alwal,,Flat,2,20000,Immediately,Family,7000,4,1
+536,Puppalguda,,Flat,3,85000,Immediately,Bachelors/Family,1800,3,9
+537,Gachibowli,,Flat,3,25000,Immediately,Bachelors,1500,3,10
+538,"Kokapet, Outer Ring","Road,",Flat,2,25000,Immediately,Bachelors/Family,2400,3,28
+539,leke villa,Gandipet,Villa,5,32000,Immediately,Family,3000,3,3
+540,"Kokapet, Outer Ring",Road,Villa,4,12000,Immediately,Bachelors/Family,1750,4,2
+541,Nalagandla,,Flat,4,10000,Immediately,Bachelors/Family,4300,4,3
+542,Nalagandla,,Flat,3,60000,Immediately,Family,1900,2,25
+543,Kondapur,,Flat,2,7500,Immediately,Bachelors,1700,2,6
+544,"Kollur, Outer Ring",Road,Villa,5,15000,Immediately,Bachelors,1600,1,4
+545,Masjid,"Banda,",Flat,3,14000,Immediately,Bachelors/Family,1550,1,5
+546,Shaikpet,,Flat,3,180000,Immediately,Bachelors/Family,1150,4,14
+547,Pragathi Nagar,"Kukatpally,",Flat,3,10000,Immediately,Family,400,4,3
+548,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors/Family,8000,3,1
+549,Hitech,"City,",Flat,3,50000,Immediately,Family,1908,3,3
+550,Kondapur,,Flat,3,23000,Immediately,Bachelors/Family,3005,5,1
+551,"Kokapet, Outer Ring","Road,",Flat,3,5000,Immediately,Bachelors/Family,32000,5,3
+552,Khajaguda,,Villa,4,22000,Immediately,Bachelors,4736,5,5
+553,Defence Colony,Sainikpuri,Flat,3,13000,Immediately,Family,1800,5,3
+554,Pragathi,"Enclave,",Flat,3,34000,Immediately,Bachelors/Family,7000,2,3
+555,"Financial District, Nanakram","Guda,",Flat,3,15000,Immediately,Bachelors/Family,1800,2,1
+556,Izzathnagar,,Flat,4,180000,Immediately,Bachelors/Family,1500,1,20
+557,"Basheer Bagh, NH","7,",Flat,2,44000,Immediately,Bachelors,2400,1,2
+558,Chanda,Nagar,Villa,3,36000,Immediately,Family,3000,2,1
+559,"Narsingi, Outer Ring","Road,",Flat,3,17000,Immediately,Bachelors,1750,2,9
+560,Narayanguda,,Flat,3,35000,Immediately,Family,4300,5,10
+561,Gachibowli,,Flat,4,15000,Immediately,Bachelors/Family,1900,5,28
+562,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,23000,Immediately,Bachelors/Family,1700,2,3
+563,Dandamudi Enclave,"Jeedimetla,",Flat,4,11000,Immediately,Bachelors,1600,2,2
+564,Hastinapuram,,Flat,2,0,Immediately,Bachelors/Family,1550,2,3
+565,Alwal,,Flat,2,0,Immediately,Bachelors/Family,1150,2,25
+566,Puppalguda,,Flat,3,0,Immediately,Bachelors,400,3,6
+567,Gachibowli,,Flat,3,0,Immediately,Bachelors/Family,580,3,4
+568,"Kokapet, Outer Ring","Road,",Flat,2,0,Immediately,Bachelors/Family,1250,2,5
+569,leke villa,Gandipet,Villa,5,0,Immediately,Bachelors/Family,8000,2,14
+570,"Kokapet, Outer Ring",Road,Villa,4,0,Immediately,Bachelors/Family,1908,4,3
+571,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,3005,4,1
+572,Nalagandla,,Flat,3,0,Immediately,Bachelors/Family,32000,3,3
+573,Kondapur,,Flat,2,550000,Immediately,Bachelors/Family,4736,3,5
+574,"Kollur, Outer Ring",Road,Villa,5,0,Immediately,Bachelors/Family,1800,1,5
+575,Masjid,"Banda,",Flat,3,95000,Immediately,Family,7000,1,15
+576,Shaikpet,,Flat,3,2110000,Immediately,Bachelors/Family,1800,1,1
+577,Pragathi Nagar,"Kukatpally,",Flat,3,330000,Immediately,Bachelors/Family,1500,1,3
+578,Tirumalagiri,,Villa,2,130000,Immediately,Bachelors/Family,2400,2,5
+579,Hitech,"City,",Flat,3,250000,Immediately,Bachelors/Family,3000,2,3
+580,Kondapur,,Flat,3,55000,Immediately,Bachelors,1750,2,3
+581,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors,4300,2,1
+582,Khajaguda,,Villa,4,180000,Immediately,Bachelors/Family,1900,3,20
+583,Defence Colony,Sainikpuri,Flat,3,47000,Immediately,Bachelors,1700,3,2
+584,Pragathi,"Enclave,",Flat,3,35000,Immediately,Bachelors/Family,1600,1,1
+585,"Financial District, Nanakram","Guda,",Flat,3,110000,Immediately,Bachelors,1550,1,9
+586,Izzathnagar,,Flat,4,110000,Immediately,Bachelors,1150,4,10
+587,"Basheer Bagh, NH","7,",Flat,2,110000,Immediately,Bachelors,400,4,28
+588,Chanda,Nagar,Villa,3,75000,Immediately,Bachelors,580,4,3
+589,"Narsingi, Outer Ring","Road,",Flat,3,45500,Immediately,Bachelors/Family,1250,4,2
+590,Narayanguda,,Flat,3,30000,Immediately,Bachelors/Family,8000,4,3
+591,Gachibowli,,Flat,4,50000,Immediately,Bachelors,1908,4,25
+592,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,45000,Immediately,Bachelors/Family,3005,2,6
+593,Dandamudi Enclave,"Jeedimetla,",Flat,4,40000,Immediately,Bachelors/Family,32000,2,4
+594,Hastinapuram,,Flat,2,28000,Immediately,Bachelors,4736,3,5
+595,Alwal,,Flat,2,40000,Immediately,Bachelors/Family,1800,3,14
+596,Puppalguda,,Flat,3,10000,Immediately,Bachelors,7000,1,3
+597,Gachibowli,,Flat,3,75000,Immediately,Bachelors,1800,1,1
+598,"Kokapet, Outer Ring","Road,",Flat,2,30000,Immediately,Bachelors,1500,3,3
+599,leke villa,Gandipet,Villa,5,7000,Immediately,Bachelors/Family,2400,3,5
+600,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,3000,4,5
+601,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,1750,4,15
+602,Nalagandla,,Flat,3,95000,Immediately,Family,4300,1,1
+603,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,1900,1,3
+604,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,1700,2,5
+605,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,1600,2,3
+606,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,1550,2,3
+607,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,1150,2,1
+608,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,400,3,20
+609,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,580,3,2
+610,Kondapur,,Flat,3,47000,Immediately,Bachelors,1250,1,1
+611,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,8000,1,9
+612,Khajaguda,,Villa,4,110000,Immediately,Bachelors,1908,2,10
+613,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,3005,2,28
+614,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,32000,1,3
+615,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,4736,1,2
+616,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,1800,2,3
+617,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,7000,2,25
+618,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,1800,1,6
+619,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,1500,1,4
+620,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,2400,5,5
+621,Gachibowli,,Flat,4,28000,Immediately,Bachelors,3000,5,14
+622,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,1750,1,3
+623,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,4300,1,1
+624,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,1900,3,3
+625,Alwal,,Flat,2,30000,Immediately,Bachelors,1700,3,5
+626,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,1600,2,5
+627,Gachibowli,,Flat,3,50000,Immediately,Bachelors,1550,2,15
+628,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,1150,1,1
+629,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,400,1,3
+630,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,580,3,5
+631,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,1250,3,3
+632,Nalagandla,,Flat,3,95000,Immediately,Family,8000,2,3
+633,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,1908,2,1
+634,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,3005,3,20
+635,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,32000,3,2
+636,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,4736,8,1
+637,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,1800,8,9
+638,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,7000,2,10
+639,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,1800,2,28
+640,Kondapur,,Flat,3,47000,Immediately,Bachelors,1500,2,3
+641,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,2400,2,2
+642,Khajaguda,,Villa,4,110000,Immediately,Bachelors,3000,3,3
+643,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,1750,3,25
+644,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,4300,1,6
+645,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,1900,1,4
+646,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,1700,1,5
+647,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,1600,1,14
+648,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,1550,2,3
+649,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,1150,2,1
+650,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,400,1,3
+651,Gachibowli,,Flat,4,28000,Immediately,Bachelors,580,1,5
+652,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,1250,2,5
+653,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,8000,2,15
+654,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,1908,5,1
+655,Alwal,,Flat,2,30000,Immediately,Bachelors,3005,5,3
+656,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,32000,3,5
+657,Gachibowli,,Flat,3,50000,Immediately,Bachelors,4736,3,3
+658,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,1800,2,3
+659,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,7000,2,1
+660,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,1800,2,20
+661,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,1500,2,2
+662,Nalagandla,,Flat,3,95000,Immediately,Family,2400,3,1
+663,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,3000,3,9
+664,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,1750,2,10
+665,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,4300,2,28
+666,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,1900,3,3
+667,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,1700,3,2
+668,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,1600,2,3
+669,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,1550,2,25
+670,Kondapur,,Flat,3,47000,Immediately,Bachelors,1150,3,6
+671,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,400,3,4
+672,Khajaguda,,Villa,4,110000,Immediately,Bachelors,580,3,5
+673,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,1250,3,14
+674,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,8000,4,3
+675,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,1908,4,1
+676,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,3005,1,3
+677,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,32000,1,5
+678,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,4736,2,5
+679,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,1800,2,15
+680,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,7000,5,1
+681,Gachibowli,,Flat,4,28000,Immediately,Bachelors,1800,5,3
+682,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,1500,4,5
+683,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,2400,4,3
+684,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,3000,2,3
+685,Alwal,,Flat,2,30000,Immediately,Bachelors,1750,2,1
+686,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,4300,3,20
+687,Gachibowli,,Flat,3,50000,Immediately,Bachelors,1900,3,2
+688,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,1700,2,1
+689,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,1600,2,9
+690,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,1550,2,10
+691,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,1150,2,28
+692,Nalagandla,,Flat,3,95000,Immediately,Family,400,2,3
+693,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,580,2,2
+694,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,1250,2,3
+695,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,8000,2,25
+696,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,1908,3,6
+697,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,3005,3,4
+698,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,32000,2,5
+699,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,4736,2,14
+700,Kondapur,,Flat,3,47000,Immediately,Bachelors,1800,2,3
+701,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,7000,2,1
+702,Khajaguda,,Villa,4,110000,Immediately,Bachelors,1800,2,3
+703,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,1500,2,5
+704,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,2400,3,5
+705,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,3000,3,15
+706,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,1750,2,1
+707,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,4300,2,3
+708,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,1900,4,5
+709,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,1700,4,3
+710,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,1600,5,3
+711,Gachibowli,,Flat,4,28000,Immediately,Bachelors,1550,5,1
+712,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,1150,2,20
+713,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,400,2,2
+714,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,580,2,1
+715,Alwal,,Flat,2,30000,Immediately,Bachelors,1250,2,9
+716,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,8000,3,10
+717,Gachibowli,,Flat,3,50000,Immediately,Bachelors,1908,3,28
+718,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,3005,2,3
+719,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,32000,2,2
+720,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,4736,4,3
+721,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,1800,4,25
+722,Nalagandla,,Flat,3,95000,Immediately,Family,7000,1,6
+723,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,1800,1,4
+724,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,1500,3,5
+725,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,2400,3,14
+726,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,3000,5,3
+727,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,1750,5,1
+728,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,4300,2,3
+729,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,1900,2,5
+730,Kondapur,,Flat,3,47000,Immediately,Bachelors,1700,2,5
+731,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,1600,2,15
+732,Khajaguda,,Villa,4,110000,Immediately,Bachelors,1550,1,1
+733,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,1150,1,3
+734,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,400,4,5
+735,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,580,4,3
+736,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,1250,2,3
+737,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,,2,1
+738,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,,1,20
+739,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,,1,2
+740,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,,4,1
+741,Gachibowli,,Flat,4,28000,Immediately,Bachelors,,4,9
+742,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,,1,10
+743,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,,1,28
+744,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,,1,3
+745,Alwal,,Flat,2,30000,Immediately,Bachelors,,1,2
+746,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,,2,3
+747,Gachibowli,,Flat,3,50000,Immediately,Bachelors,,2,25
+748,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,,3,6
+749,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,,3,4
+750,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,,2,5
+751,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,,2,14
+752,Nalagandla,,Flat,3,95000,Immediately,Family,,1,3
+753,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,,1,1
+754,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,,1,3
+755,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,,1,5
+756,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,,3,5
+757,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,,3,15
+758,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,,2,1
+759,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,,2,3
+760,Kondapur,,Flat,3,47000,Immediately,Bachelors,,4,5
+761,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,,4,3
+762,Khajaguda,,Villa,4,110000,Immediately,Bachelors,,2,3
+763,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,,2,1
+764,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,,1,20
+765,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,,1,2
+766,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,,2,1
+767,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,,2,9
+768,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,,1,10
+769,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,,1,28
+770,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,,2,3
+771,Gachibowli,,Flat,4,28000,Immediately,Bachelors,,2,2
+772,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,,2,3
+773,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,,2,25
+774,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,,2,6
+775,Alwal,,Flat,2,30000,Immediately,Bachelors,,2,4
+776,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,,2,5
+777,Gachibowli,,Flat,3,50000,Immediately,Bachelors,,2,14
+778,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,,2,3
+779,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,,2,1
+780,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,,2,3
+781,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,,2,5
+782,Nalagandla,,Flat,3,95000,Immediately,Family,,2,5
+783,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,,2,15
+784,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,,3,0
+785,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,,3,0
+786,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,,2,0
+787,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,,2,0
+788,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,,2,0
+789,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,,2,0
+790,Kondapur,,Flat,3,47000,Immediately,Bachelors,,2,0
+791,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,,2,0
+792,Khajaguda,,Villa,4,110000,Immediately,Bachelors,,2,0
+793,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,,2,0
+794,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,,2,0
+795,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,,2,0
+796,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,,2,0
+797,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,,2,0
+798,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,,2,0
+799,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,,2,0
+800,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,,2,0
+801,Gachibowli,,Flat,4,28000,Immediately,Bachelors,,2,0
+802,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,,2,0
+803,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,,2,0
+804,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,,3,0
+805,Alwal,,Flat,2,30000,Immediately,Bachelors,,3,0
+806,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,,1,0
+807,Gachibowli,,Flat,3,50000,Immediately,Bachelors,,1,0
+808,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,,2,0
+809,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,,2,0
+810,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,,3,0
+811,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,,3,0
+812,Nalagandla,,Flat,3,95000,Immediately,Family,,2,0
+813,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,,2,0
+814,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,,2,0
+815,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,,2,0
+816,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,,3,0
+817,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,,3,0
+818,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,,3,0
+819,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,,3,0
+820,Kondapur,,Flat,3,47000,Immediately,Bachelors,,2,0
+821,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,,2,0
+822,Khajaguda,,Villa,4,110000,Immediately,Bachelors,,3,0
+823,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,,3,0
+824,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,,3,0
+825,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,,3,0
+826,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,,2,0
+827,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,,2,0
+828,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,,3,0
+829,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,,3,0
+830,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,,2,0
+831,Gachibowli,,Flat,4,28000,Immediately,Bachelors,,2,0
+832,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,,2,0
+833,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,,2,0
+834,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,,1,0
+835,Alwal,,Flat,2,30000,Immediately,Bachelors,,1,0
+836,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,,2,0
+837,Gachibowli,,Flat,3,50000,Immediately,Bachelors,,2,0
+838,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,,2,0
+839,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,,2,0
+840,"Kokapet, Outer Ring",Road,Villa,4,550000,Immediately,Bachelors/Family,,1,0
+841,Nalagandla,,Flat,4,0,Immediately,Bachelors/Family,,1,0
+842,Nalagandla,,Flat,3,95000,Immediately,Family,,3,0
+843,Kondapur,,Flat,2,2110000,Immediately,Bachelors/Family,,3,0
+844,"Kollur, Outer Ring",Road,Villa,5,330000,Immediately,Bachelors/Family,,1,0
+845,Masjid,"Banda,",Flat,3,130000,Immediately,Bachelors/Family,,1,0
+846,Shaikpet,,Flat,3,250000,Immediately,Bachelors/Family,,2,0
+847,Pragathi Nagar,"Kukatpally,",Flat,3,55000,Immediately,Bachelors,,2,0
+848,Tirumalagiri,,Villa,2,35000,Immediately,Bachelors,,3,0
+849,Hitech,"City,",Flat,3,180000,Immediately,Bachelors/Family,,3,0
+850,Kondapur,,Flat,3,47000,Immediately,Bachelors,,1,0
+851,"Kokapet, Outer Ring","Road,",Flat,3,35000,Immediately,Bachelors/Family,,1,0
+852,Khajaguda,,Villa,4,110000,Immediately,Bachelors,,2,0
+853,Defence Colony,Sainikpuri,Flat,3,110000,Immediately,Bachelors,,2,0
+854,Pragathi,"Enclave,",Flat,3,110000,Immediately,Bachelors,,1,0
+855,"Financial District, Nanakram","Guda,",Flat,3,75000,Immediately,Bachelors,,1,0
+856,Izzathnagar,,Flat,4,45500,Immediately,Bachelors/Family,,2,0
+857,"Basheer Bagh, NH","7,",Flat,2,30000,Immediately,Bachelors/Family,,2,0
+858,Chanda,Nagar,Villa,3,50000,Immediately,Bachelors,,2,0
+859,"Narsingi, Outer Ring","Road,",Flat,3,45000,Immediately,Bachelors/Family,,2,0
+860,Narayanguda,,Flat,3,40000,Immediately,Bachelors/Family,,2,0
+861,Gachibowli,,Flat,4,28000,Immediately,Bachelors,,2,0
+862,"Injapur, Neeladri Nagar, Ibrahimpatnam","Road,",Flat,2,40000,Immediately,Bachelors/Family,,2,0
+863,Dandamudi Enclave,"Jeedimetla,",Flat,4,10000,Immediately,Bachelors,,2,0
+864,Hastinapuram,,Flat,2,75000,Immediately,Bachelors,,4,0
+865,Alwal,,Flat,2,30000,Immediately,Bachelors,,4,0
+866,Puppalguda,,Flat,3,7000,Immediately,Bachelors/Family,,3,0
+867,Gachibowli,,Flat,3,50000,Immediately,Bachelors,,3,0
+868,"Kokapet, Outer Ring","Road,",Flat,2,22000,Immediately,Bachelors,,2,0
+869,leke villa,Gandipet,Villa,5,50000,Immediately,Bachelors,,2,0
